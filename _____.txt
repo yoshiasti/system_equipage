@@ -1,0 +1,1 @@
+print("Système d\'équipage chargé !"
